@@ -8,5 +8,6 @@ public class DemoMvcAlunos202102Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoMvcAlunos202102Application.class, args);
+		
 	}
 }
